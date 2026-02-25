@@ -1,6 +1,6 @@
 
 ## Hi, I'm Aiswarya ✨
-Artificial Intelligence and Data Science graduate with a strong interest in building practical machine learning solutions.<br>Experienced in working with real-world datasets, model development, and predictive analytics.<br>Skilled in Python, data preprocessing, and implementing ML algorithms for problem-solving.<br>Focused on continuously improving technical expertise and applying AI to meaningful challenges.<br><br>
+👩🏻‍🎓 Artificial Intelligence and Data Science graduate with a strong interest in building practical machine learning solutions.<br> 👩🏻‍💻 Experienced in working with real-world datasets, model development, and predictive analytics.<br>🚀 Skilled in Python, Java, data preprocessing, and implementing ML algorithms for problem-solving.<br>🖲️Focused on continuously improving technical expertise and applying AI to meaningful challenges.<br><br>
 
 
 ## 🌐 Socials:
